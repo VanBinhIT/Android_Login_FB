@@ -1,0 +1,13 @@
+<resources>
+    <color name="fb_blue_103">#1877F2</color>
+    <color name="fb_green_103">#42B72A</color>
+    <color name="fb_bg_103">#F0F2F5</color>
+    <color name="text_primary_103">#333333</color>
+
+    <color name="green_103">#4CAF50</color>
+    <color name="green_dark_103">#388E3C</color>
+    <color name="card_stroke_103">#C8E6C9</color>
+    <color name="text_dark_103">#1E2A32</color>
+    <color name="text_muted_103">#6B7B88</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
